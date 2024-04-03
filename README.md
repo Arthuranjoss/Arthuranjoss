@@ -1,4 +1,4 @@
-## Welcome to my  dev Profile 😁, My name is Arthur i am a Mechanical Engineer students passionate by Design, Programming, Visual Effects, 3D and Learning new skills. I pretend to use this space for growing and learning making the best of myself and become a excellent professional
+## Welcome to my  dev Profile 😁, My name is Arthur. I am a Mechanical Engineer student passionate by Design, Programming, Visual Effects, 3D and Learn new skills. I pretend to use this space for growing and learning making the best of myself and become an excellent professional
 
  <div>
    <a href="https://github.com/Arthuranjoss">
@@ -24,7 +24,7 @@
  
 <br>
  
-### Check out my pages right bellow!
+### Check out my pages right below!
  
 <div>
   <a href="https://instagram.com/arthur_anjos_s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
