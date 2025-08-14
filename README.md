@@ -1,4 +1,4 @@
-## Welcome to my  dev Profile 😁, My name is Arthur. I am a Mechanical Engineer student passionate by Design, Programming, Visual Effects, 3D and Learn new skills. I pretend to use this space for growing and learning making the best of myself and become an excellent professional
+## Welcome to my  dev Profile 😁, My name is Arthur. I am a Mechanical Engineering student passionate about motorsport, Programming, Visual Effects, and Learning new skills. I pretend to use this space for growing and learning, making the best of myself, and becoming an excellent professional
 
  <div>
    <a href="https://github.com/Arthuranjoss">
